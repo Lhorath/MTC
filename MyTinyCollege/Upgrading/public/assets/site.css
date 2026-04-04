@@ -1,0 +1,16 @@
+/* Minimal tweaks alongside Bootstrap 3 */
+.body-content {
+    padding-bottom: 2rem;
+}
+
+.navbar-form .btn-link {
+    color: #777;
+}
+
+.navbar-form .btn-link:hover {
+    color: #333;
+}
+
+.has-error-msg {
+    color: #a94442;
+}
